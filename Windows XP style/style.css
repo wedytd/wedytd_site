@@ -1,0 +1,8 @@
+   #footer {
+    width: 100%; /* ширина футера */
+    height: 100px; /* высота */
+    position: absolute; /* абсолютное позиционирование */
+    bottom: 0; /* прижимаем к нижнему краю обертки */
+    color: #fff;
+    background: #000;
+   }
